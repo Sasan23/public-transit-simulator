@@ -14,7 +14,8 @@ It also allows the user to then save the changes, and then to press "Open" to im
 Prerequisites and usage guide:
 Make sure to have at least JDK version 13 installed. 
 Install the JAVA IDE of your choice. 
-Import/open the project folder. 
+Download the Zip, unzip it, and rename the folder to "publicTransitSimulator". 
+Import/open the aforementioned folder. 
 
 License:
 [MIT](https://choosealicense.com/licenses/mit/)
