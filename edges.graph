@@ -1,0 +1,81 @@
+
+Zinkensdamn;Mariatorget;Red-line subway;1
+Zinkensdamn;Hornstull;Red-line subway;1
+Östermalmstorg;Stadion;Red-line subway;2
+Östermalmstorg;T-Centralen;Red-line subway;1
+Östermalmstorg;Karlaplan;Red-line subway;2
+Hötorget;Rådmansgatan;Green-line subway;2
+Hötorget;T-Centralen;Green-line subway;2
+St Eriksplan;Fridhemsplan;Green-line subway;2
+St Eriksplan;Karolinska Institutet;Bus 54;4
+St Eriksplan;Odenplan;Green-line subway;2
+Henriksdal;Skanstull;Bus 34;10
+Henriksdal;Slussen;Bus 471;13
+T-Centralen;Gamla Stan;Red-line subway;3
+T-Centralen;Östermalmstorg;Red-line subway;1
+T-Centralen;Odenplan;Commuter Train;3
+T-Centralen;Hötorget;Green-line subway;2
+T-Centralen;Manilla;Commuter train;35
+T-Centralen;Gröna Lund;Commuter train;9
+T-Centralen;Kungsträdgården;Blue-line subway;1
+T-Centralen;Rådhuset;Blue-line subway;1
+T-Centralen;Kaknäs;Bus 69;14
+Thorildsplan;Kristineberg;Green-line subway;2
+Thorildsplan;Hornstull;Bus 74;21
+Thorildsplan;Fridhemsplan;Green-line subway;1
+Rådhuset;Fridhemsplan;Blue-line subway;2
+Rådhuset;T-Centralen;Blue-line subway;1
+Västra Skogen;Stadshagen;Blue-line subway;3
+Karolinska Institutet;St Eriksplan;Bus 54;4
+Karolinska Institutet;Skanstull;Bus 34;34
+Fridhemsplan;Stadshagen;Blue-line subway;3
+Fridhemsplan;St Eriksplan;Green-line subway;2
+Fridhemsplan;Karlaplan;Bus 7;15
+Fridhemsplan;Rådhuset;Blue-line subway;2
+Fridhemsplan;Thorildsplan;Green-line subway;1
+Gamla Stan;Slussen;Red-line subway;2
+Gamla Stan;T-Centralen;Red-line subway;3
+Hornstull;Thorildsplan;Bus 74;21
+Hornstull;Zinkensdamn;Red-line subway;1
+Stadion;Tekniska Högskolan;Red-line subway;4
+Stadion;Östermalmstorg;Red-line subway;2
+Stadshagen;Västra Skogen;Blue-line subway;3
+Stadshagen;Fridhemsplan;Blue-line subway;3
+Gärdet;Karlaplan;Red-line subway;3
+Mariatorget;Slussen;Red-line subway;3
+Mariatorget;Zinkensdamn;Red-line subway;1
+Kaknäs;Karlaplan;Bus 67;7
+Kaknäs;Manilla;Bus 67;10
+Kaknäs;T-Centralen;Bus 69;14
+Kristineberg;Thorildsplan;Green-line subway;2
+Manilla;T-Centralen;Commuter train;35
+Manilla;Gröna Lund;Bus 67;6
+Manilla;Kaknäs;Bus 67;10
+Medborgarplatsen;Skanstull;Green-line subway;2
+Medborgarplatsen;Slussen;Green-line subway;2
+Odenplan;T-Centralen;Commuter Train;3
+Odenplan;St Eriksplan;Green-line subway;2
+Odenplan;Rådmansgatan;Green-line subway;3
+Odenplan;Tekniska Högskolan;Bus 4;6
+Rådmansgatan;Hötorget;Green-line subway;2
+Rådmansgatan;Odenplan;Green-line subway;3
+Kungsträdgården;T-Centralen;Blue-line subway;1
+Tekniska Högskolan;Odenplan;Bus 4;6
+Tekniska Högskolan;Karlaplan;Bus 67;5
+Tekniska Högskolan;Stadion;Red-line subway;4
+Gröna Lund;Karlaplan;Bus 67;5
+Gröna Lund;Manilla;Bus 67;6
+Gröna Lund;T-Centralen;Commuter train;9
+Slussen;Henriksdal;Bus 471;13
+Slussen;Gamla Stan;Red-line subway;2
+Slussen;Mariatorget;Red-line subway;3
+Slussen;Medborgarplatsen;Green-line subway;2
+Skanstull;Karolinska Institutet;Bus 34;34
+Skanstull;Medborgarplatsen;Green-line subway;2
+Skanstull;Henriksdal;Bus 34;10
+Karlaplan;Östermalmstorg;Red-line subway;2
+Karlaplan;Tekniska Högskolan;Bus 67;5
+Karlaplan;Gröna Lund;Bus 67;5
+Karlaplan;Kaknäs;Bus 67;7
+Karlaplan;Gärdet;Red-line subway;3
+Karlaplan;Fridhemsplan;Bus 7;15
