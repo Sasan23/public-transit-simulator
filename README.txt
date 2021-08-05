@@ -17,6 +17,7 @@ Install the JavaFX SDK.
 Install the JAVA IDE of your choice. 
 Download the Zip, unzip it, and rename the folder to "publicTransitSimulator". 
 Import/open the aforementioned folder. 
+Configure to add the drivers in the Drivers folder. 
 
 License:
 [MIT](https://choosealicense.com/licenses/mit/)
