@@ -13,6 +13,7 @@ It also allows the user to then save the changes, and then to press "Open" to im
 
 Prerequisites and usage guide:
 Make sure to have at least JDK version 13 installed. 
+Install the JavaFX SDK. 
 Install the JAVA IDE of your choice. 
 Download the Zip, unzip it, and rename the folder to "publicTransitSimulator". 
 Import/open the aforementioned folder. 
